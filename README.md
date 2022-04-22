@@ -1,7 +1,5 @@
 # dynamic-array
 
-An implementation of the AVL tree data structure.
-
 An optimized 1-dimensional array of fixnums that automatically re-adjusts in size.
 
 ## Overview
